@@ -4,7 +4,7 @@ package_title: "Espanso Dice"
 package_desc: "Dice emulator using the espanso random function."
 package_version: "0.1.0"
 package_author: "Craftidore"
-package_repo: ""
+package_repo: "https://github.com/Craftidore/espanso-dice"
 ---
 # Espanso Dice
 Espanso text expander package with common die types.
