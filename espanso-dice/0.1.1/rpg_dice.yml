@@ -149,7 +149,7 @@ matches:
             - "7"
             - "8"
             - "9"
-            - "10"
+            - "0"
       - name: output2
         type: random
         params:
@@ -181,7 +181,7 @@ matches:
             - "7"
             - "8"
             - "9"
-            - "10"
+            - "0"
       - name: output2
         type: random
         params:
